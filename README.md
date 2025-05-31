@@ -21,6 +21,5 @@ build the files with
 
 ```bash
 cmake . -B build
-make -C build
-ninja -C build
+make -C build 
 ```
