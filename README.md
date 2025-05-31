@@ -6,22 +6,18 @@ examples of simple cpp20 module feature with with cmake and with g++ compiler
 
 ### With using bash
 
-First, go to ```with_gcc ``` folder with
+First, go to ```with_gcc ``` folder
 
-```cd with_gcc ```
-
-then use
+build the files with
 
 ```./build.sh ```
 
 
 ### With using cmake
 
-First, go to ``` with_cmake ``` folder with
+First, go to ``` with_cmake ``` folder
 
-```cd with_cmake ```
-
-then use
+build the files with
 
 ```cmake . -B build ```
 ```make -C build```
