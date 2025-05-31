@@ -19,6 +19,8 @@ First, go to ```with_cmake``` folder
 
 build the files with
 
-```cmake . -B build```
-```make -C build```
-```ninja -C build```
+```bash
+cmake . -B build
+make -C build
+ninja -C build
+```
